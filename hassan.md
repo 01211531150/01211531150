@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hassan saeed 01211531150
+- 👋 Hi, I’m @hassan saeed 
 - 👀 I’m interested in Front-end
 - 🌱 I’m currently learning front-end
 - 💞️ I’m looking to collaborate on anything about that
